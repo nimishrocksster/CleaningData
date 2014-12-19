@@ -1,0 +1,27 @@
+training = Contains the data set from training subset
+trainingActivity = Contains the activity for each measurement in the training set
+
+test = Contains the data set from test subset
+testActivity = = Contains the activity for each measurement in the test set
+
+data = Contains the combined test and training data
+activity = Contains the combined test and training activity mesurement
+
+feature = Contains the list of variables in teh above measurement
+
+colList = Contains the column names with mean and std in their names
+
+tidyData = Contains the final tidy data requested in the first part
+
+labels = Contains the labels for each activity 
+
+trainSubject = Contains the subject who took part in the given measurement from training set
+testSubject =  Contains the subject who took part in the given measurement from test set
+subjects = Contains the subject who took part in the given measurement from both training and test 
+
+subjectData = contains the merge of tidy data and the subject
+
+meltData = Contain data frame with Activity and Subject as ids
+
+tidyDataNew = Contains final tidy data requested in part 2
+
